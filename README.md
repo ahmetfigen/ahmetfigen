@@ -32,9 +32,7 @@ I am a passionate ABAP developer with a strong command of SAP technologies and t
  </a>
 </p>
 </div>
-<h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ahmetfigen&theme=react-dark&hide_border=true" />
-  </a>
+
 
 <img src="https://imgur.com/mlbGPyp.gif">
 <div align="center">
