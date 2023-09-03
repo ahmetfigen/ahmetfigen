@@ -1,4 +1,3 @@
-<h1 align="center"> <img src="https://github.com/ahmetfigen/ahmetfigen/assets/101676651/31e6a67d-5388-406c-bf45-c4e4ac5aedbb" width="650"/> </h1>
 <h1> <p align="center">Adding color to the ABAP world with creative thinking and functional solutions.</p></h1>
 
 
