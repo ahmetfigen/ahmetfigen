@@ -11,8 +11,60 @@ I am a passionate ABAP developer with a strong command of SAP technologies and t
 <p align="center"><b>  Contact Me  </b> </p>
 <p align="center"> <a href="mailto:ahmetfigen@gmail.com" target="_blank"><img alt="Email" src="https://user-images.githubusercontent.com/108164455/209260680-66fe9de3-6e02-491f-ad22-6bffe5f4b4c2.png" width="60" height="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ahmet-f-46a634225/" target="_blank"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/108164455/209263271-fbc4e1e0-e7ca-42df-acd7-214bcccb38d5.png" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-
+<h3><p align="center"><img src="https://user-images.githubusercontent.com/108164455/209453421-a1ea0d45-247b-4107-88b7-2f423178e7f5.png" alt="html" width="300" height="3"/> < My Languages and Tools > <img src="https://user-images.githubusercontent.com/108164455/209453421-a1ea0d45-247b-4107-88b7-2f423178e7f5.png" alt="html" width="300" height="3"/></p></h3>
+<table align="center">
+  <tr>
+   <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/ahmetfigen/ahmetfigen/assets/101676651/06e9cc89-5a7b-4f39-89a0-01288ddd62d7" width="48" height="48" alt="SAP/ABAP" />
+      </a>
+      <br>SAP/ABAP
+    </td>
+   <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/ahmetfigen/ahmetfigen/assets/101676651/c91127b0-7bda-420b-9ae6-b0a5916b2d6e" width="55" height="55" alt="Analytics Cloud" />
+      </a>
+      <br>Analytics Cloud
+    </td>    
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/344880/github.svg" width="48" height="48" alt="Github" />
+      </a>
+      <br>Github
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/376328/jira.svg" width="48" height="48" alt="Jira" />
+      </a>
+      <br>Jira
+    </td>
+   <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/ahmetfigen/ahmetfigen/assets/101676651/e4821a21-0aef-4476-bafc-63755f71eebf" alt="sql" width="48" height="48" alt="SQL" />
+      </a>
+      <br>SQL
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/ahmetfigen/ahmetfigen/assets/101676651/ce2aadd8-db2f-4a96-862f-b8735f2d92d3" width="56" height="48" alt="MS Access" />
+      </a>
+      <br>Access
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/ahmetfigen/ahmetfigen/assets/101676651/7d54134a-53dd-4177-a9a8-8581e34544e4" width="56" height="48" alt="MS Power BI" />
+      </a>
+      <br>Power BI
+    </td>
+      <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/ahmetfigen/ahmetfigen/assets/101676651/5ee3bef9-4a1a-4b11-9e81-8687a5c13569" width="56" height="48" alt="MS Office" />
+      </a>
+      <br>Office
+    </td>
+ </tr>
+</table>
+<p align="center"><img src="https://user-images.githubusercontent.com/108164455/209453421-a1ea0d45-247b-4107-88b7-2f423178e7f5.png" alt="html" width="1100" height="none"/></p>
 
 ## 🏆 GitHub Trophies
 
